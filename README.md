@@ -105,7 +105,7 @@ Add your dashboard screenshot here:
 /images/dashboard_screenshot.png
 
 ## 📁 Project Structure:
-
+```
 📦 Customer-Behavior-Analysis
  ┣ 📂 data
  ┃ ┗ customer_shopping_behavior.csv
@@ -118,6 +118,7 @@ Add your dashboard screenshot here:
  ┣ 📂 images
  ┃ ┗ dashboard_screenshot.png
  ┗ README.md
+```
 
 ## 🚀 Conclusion:
 
